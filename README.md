@@ -1,10 +1,10 @@
-<!-- ШАПКА --> 
+<!-- ШАПКА -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Worton%20%C2%B7%20Hobbit%20Dev&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=full-stack%20%7C%20Python%20%7C%20Vue%20%7C%20NestJS&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Worton%20%C2%B7%20Hobbit%20Dev&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=full-stack%20%7C%20Python%20%7C%20Vue%20%7C%20AI%2FML&descAlignY=58&descSize=18" alt="header"/>
 
 <a href="https://github.com/Worton1720">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=8E2DE2&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+Worton+%F0%9F%91%8B;%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%B8+full-stack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E+%D0%B8+%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=8E2DE2&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+Worton+%F0%9F%91%8B;Full-stack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%98%D0%B7%D1%83%D1%87%D0%B0%D1%8E+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83+%D1%81+%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8+%F0%9F%A4%96;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E+%D0%B8+%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4" alt="typing"/>
 </a>
 
 <br/>
@@ -19,10 +19,10 @@
 
 ## 🧙 Обо мне
 
-- 🎓 Учусь на разработчика и развиваю учебные и pet-проекты
 - 🧩 Делаю full-stack: бэкенд на **Python / NestJS**, фронтенд на **Vue 3**
+- 🧠 Изучаю **работу с нейросетями** и применение ML в своих проектах
 - 🤖 Люблю **автоматизацию**: Telegram-боты, userscript'ы, парсеры и API-клиенты
-- 🌱 Сейчас углубляюсь в **TypeScript, NestJS и архитектуру приложений**
+- 🌱 Сейчас углубляюсь в **TypeScript, NestJS и нейросети**
 - 🧙 Хоббит из команды **Hobbits Team**
 
 ---
@@ -40,6 +40,11 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -68,7 +73,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| 🎯 **[formanima](https://github.com/Worton1720/formanima)** | Дипломный проект — веб-приложение для трекинга привычек и целей с геймификацией, модулями финансов и калорий | `Vue 3` · `NestJS` · `Prisma` · `PostgreSQL` · `TypeScript` |
+| 🎯 **[formanima](https://github.com/Worton1720/formanima)** | Веб-приложение для трекинга привычек и целей с геймификацией, модулями финансов и калорий | `Vue 3` · `NestJS` · `Prisma` · `PostgreSQL` · `TypeScript` |
 | 📊 **[TopAcademyJournalAutoRaterPro](https://github.com/Worton1720/TopAcademyJournalAutoRaterPro)** | Userscript для журнала Top Academy: автопроставление оценок, анализ посещаемости, умный выбор дат | `JavaScript` · `Tampermonkey` |
 | 🟩 **[minecraft-server-bot](https://github.com/Worton1720/minecraft-server-bot)** | Telegram-бот статуса Minecraft-сервера: онлайн, версия, пинг игроков | `Python` · `aiogram 3.x` · `mcstatus` · `SQLite` |
 
